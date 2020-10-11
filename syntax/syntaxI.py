@@ -7,7 +7,7 @@ numberFloat = 5.555
 textString = "Hello World!"
 
 #Booleans: true or false.
-myBoolVar = False
+myBoolVar = False #or True
 
 """Operators types."""
 #Aritmetics: +, -, *, /, %, //, **
