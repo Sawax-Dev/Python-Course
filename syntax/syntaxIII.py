@@ -6,7 +6,7 @@ myList = ["Brian", "Santi", "Marlon"]
 myResult = myList[0:3] #Toma los elementos del 0 hasta el 3
 print(f"My name's in the list is: {myResult}")
 
-#Add an elements in my list.
+#Add an elements in my array.
 myList.append("Claudia") #Adding an element to final. 
 myList.insert(2, "Lola") #It's adding an element where I specified.
 myList.extend(["María", "Juan", "Martina"]) #Adding some elements in the list.
